@@ -6,6 +6,10 @@ Turns NVIDIA Surround on and off with one click: Surround joins the monitors int
 
 Switching takes about 4 seconds. The program remembers both layouts as they were last seen on the screens (resolution, refresh rate, monitor order) and puts them back exactly.
 
+## Download
+
+Get `ScreenSwitcher.exe` from the [latest release](https://github.com/gregmol123/nvidia-surround-switcher/releases/latest) and put it in a folder of its own, because it keeps its settings in `screens.json` next to the exe. The exe is not signed, so Windows may warn about an unknown publisher the first time: choose **More info**, then **Run anyway**.
+
 ## Requirements
 
 - Windows 10 or 11, 64-bit
