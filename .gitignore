@@ -1,0 +1,9 @@
+# Build output: the exe is published next to src, and goes out as a release instead.
+bin/
+obj/
+.vs/
+/ScreenSwitcher.exe
+
+# Each PC's own monitor ids.
+/screens.json
+/screens.json.tmp
